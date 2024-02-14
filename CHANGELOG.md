@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.46](https://github.com/MarcoIeni/release-plz/compare/release-plz-v0.3.45...release-plz-v0.3.46) - 2024-02-14
+
+### Other
+- update Cargo.toml dependencies
+- simplify get_package_diff function ([#1275](https://github.com/MarcoIeni/release-plz/pull/1275))
+- refactor diff function ([#1273](https://github.com/MarcoIeni/release-plz/pull/1273))
+
 ## [0.3.45](https://github.com/MarcoIeni/release-plz/compare/release-plz-v0.3.44...release-plz-v0.3.45) - 2024-02-11
 
 ### Added
